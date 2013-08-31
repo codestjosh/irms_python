@@ -1,9 +1,8 @@
 iRMS
 ====
 
-inspaya Records Management System re-written in Python/Djano
+inspaya Records Management System re-written in Python/Django
 
-iRMS Features
--------------
+##iRMS Features
 To be updated
 
